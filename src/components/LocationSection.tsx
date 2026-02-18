@@ -17,7 +17,7 @@ const LocationSection = () => {
           {/* Map */}
           <div className="rounded-2xl overflow-hidden border border-border aspect-square md:aspect-auto">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1975!2d-46.6522!3d-23.5644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDMzJzUxLjkiUyA0NsKwMzknMDcuOSJX!5e0!3m2!1spt-BR!2sbr!4v1600000000000!5m2!1spt-BR!2sbr"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1114.7482908702061!2d-44.003325890263184!3d-19.985360909910693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6bdc031c3a47d%3A0x9bd1c70631b941e7!2sR.%20Amilcar%20Cabral%2C%20490%20-%20Milion%C3%A1rios%2C%20Belo%20Horizonte%20-%20MG%2C%2030620-250!5e0!3m2!1spt-BR!2sbr!4v1771443260194!5m2!1spt-BR!2sbr"
               width="100%"
               height="100%"
               style={{ border: 0, minHeight: "300px" }}
