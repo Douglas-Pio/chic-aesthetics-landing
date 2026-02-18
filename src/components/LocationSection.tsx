@@ -39,9 +39,9 @@ const LocationSection = () => {
                   Endereço
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Av. Paulista, 1000 - Sala 501<br />
-                  Bela Vista, São Paulo - SP<br />
-                  CEP: 01310-100
+                  R. Amilcar Cabral, 490 <br />
+                  Milionários, Belo Horizonte - MG <br />
+                  CEP: 30620-250
                 </p>
               </div>
             </div>
